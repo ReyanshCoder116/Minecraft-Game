@@ -1,6 +1,6 @@
 # Minecraft-Game
 # Requirements
-#URSINA
-#perlin_noise
+# URSINA
+# perlin_noise
 pip install ursina
 pip install perlin_noise
